@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "282587473930",
+    "project_id": "taleemconnect-994b1",
+    "storage_bucket": "taleemconnect-994b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282587473930:android:95342ca337adba628d97f3",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282587473930-1pakk1n506voj9m01ajg0037praouffu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elearning",
+            "certificate_hash": "54ed79203a2c6a11e5af459c03cd670dfb204a65"
+          }
+        },
+        {
+          "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYkAWrm4Ibep1uFB458nAHrLdJ5W2LhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282587473930-r9g4fqiheoph46tgo6apv5bjlvfbdm4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taleemconnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282587473930:android:ee0efcf07fbe53018d97f3",
+        "android_client_info": {
+          "package_name": "com.example.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282587473930-1c9nod1epp51bpoejv6bl0jt5bv25sii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalyearproject",
+            "certificate_hash": "54ed79203a2c6a11e5af459c03cd670dfb204a65"
+          }
+        },
+        {
+          "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYkAWrm4Ibep1uFB458nAHrLdJ5W2LhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282587473930-r9g4fqiheoph46tgo6apv5bjlvfbdm4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taleemconnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282587473930:android:d60c99b3ddf61e018d97f3",
+        "android_client_info": {
+          "package_name": "com.example.taleemconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282587473930-9c5sp66qk5fjpkd2fo9ifor76a3ls55j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taleemconnect",
+            "certificate_hash": "54ed79203a2c6a11e5af459c03cd670dfb204a65"
+          }
+        },
+        {
+          "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYkAWrm4Ibep1uFB458nAHrLdJ5W2LhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282587473930-07mjruji7ks3joqmns1lrsukff5r34re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282587473930-r9g4fqiheoph46tgo6apv5bjlvfbdm4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taleemconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
